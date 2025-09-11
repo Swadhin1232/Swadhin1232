@@ -1,14 +1,20 @@
-<!-- 🎯 Custom Banner -->
+<!-- Waving Hand & Typing Intro -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
+  Hi, I'm Swadhinraj Behera
+</h1>
+
 <p align="center">
-  <img src="https://github.com/swadhinraj/swadhinraj/assets/your-image-id/banner.gif" alt="Swadhinraj Behera - Data Analyst | Fitness Enthusiast" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Fitness+Enthusiast+%7C+Generative+AI+Explorer;Turning+data+into+insights+and+impact!;Always+learning%2C+always+analyzing+💡" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Swadhinraj Behera 👋</h1>
+---
 
-<p align="center">
-💡 Data Analyst | 💪 Fitness Enthusiast | 🤖 Generative AI Explorer  
-Turning raw data into actionable insights — and breaking PRs in the gym!
-</p>
+### ✨ About Me
+
+💡 Passionate about uncovering hidden stories in data and building stunning visualizations.  
+💪 When I'm not crunching numbers, you'll find me lifting weights or exploring the world of Generative AI.  
+🎯 Driven by curiosity, creativity, and continuous learning.
 
 ---
 
@@ -24,23 +30,23 @@ Turning raw data into actionable insights — and breaking PRs in the gym!
 
 #### 📊 Data & BI Tools
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-#### ⚙️ Tools & Platforms
+#### 🤖 AI & Tools
 
+![Generative AI](https://img.shields.io/badge/Generative_AI-5e60ce?style=flat-square&logo=OpenAI&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-5e60ce?style=flat-square&logo=OpenAI&logoColor=white)
 
 ---
 
-### 🧠 Interests
+### 🧠 My Interests
 
-<marquee behavior="scroll" direction="left" scrollamount="7">
-📊 Data Storytelling & Visualization 🔍 | ⚙️ Dashboard Automation | 🧠 Gen AI & Prompt Engineering | 🏋️‍♂️ Strength & Fitness | 🚀 Continuous Tech Learning
+<marquee behavior="scroll" direction="left" scrollamount="8">
+📊 Data Storytelling & Visualization &nbsp;&nbsp;&nbsp; ⚙️ Dashboard Automation &nbsp;&nbsp;&nbsp; 🧬 Gen AI & Prompt Engineering &nbsp;&nbsp;&nbsp; 🧘‍♂️ Health & Strength Training &nbsp;&nbsp;&nbsp; 📚 Continuous Learning
 </marquee>
 
 ---
@@ -62,10 +68,10 @@ Turning raw data into actionable insights — and breaking PRs in the gym!
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake (Cool Animation!)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swadhinraj/swadhinraj/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
