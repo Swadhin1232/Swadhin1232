@@ -1,12 +1,21 @@
-<!-- Waving Hand & Typing Intro -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
-  Hi, I'm Swadhinraj Behera
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  <span style="display:inline-block; animation: shimmer 3s infinite linear;">
+    Hi, I'm <strong>Swadhinraj Behera</strong>
+  </span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Fitness+Enthusiast+%7C+Generative+AI+Explorer;Turning+data+into+insights+and+impact!;Always+learning%2C+always+analyzing+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=🔍+Data+Analyst+%7C+🏋️‍♂️+Fitness+Enthusiast+%7C+🧠+Generative+AI+Explorer;Turning+data+into+insights+and+impact!;Always+learning%2C+always+analyzing+💡" alt="Typing SVG" />
 </p>
+
+<style>
+@keyframes shimmer {
+  0% { color: #ffffff; }
+  50% { color: #00bfff; }
+  100% { color: #ffffff; }
+}
+</style>
 
 ---
 
@@ -22,40 +31,44 @@
 
 #### 💻 Languages & Markup
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 📊 Data & BI Tools
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 #### 🤖 AI & Tools
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-5e60ce?style=flat-square&logo=OpenAI&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-5e60ce?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 🧠 My Interests
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
-📊 Data Storytelling & Visualization &nbsp;&nbsp;&nbsp; ⚙️ Dashboard Automation &nbsp;&nbsp;&nbsp; 🧬 Gen AI & Prompt Engineering &nbsp;&nbsp;&nbsp; 🧘‍♂️ Health & Strength Training &nbsp;&nbsp;&nbsp; 📚 Continuous Learning
-</marquee>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Storytelling-7e57c2?style=for-the-badge&logo=chart-line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboard_Automation-fd7e14?style=for-the-badge&logo=automation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gen_AI_&_Prompt_Engineering-4caf50?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Health_&_Strength_Training-f44336?style=for-the-badge&logo=heartbeat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Continuous_Learning-2196f3?style=for-the-badge&logo=openbook&logoColor=white" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swadhinraj&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swadhinraj&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swadhinraj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swadhinraj&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
 </p>
 
 ---
@@ -63,12 +76,12 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swadhinraj&theme=radical&margin-w=5&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swadhinraj&theme=matrix&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake (Cool Animation!)
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
@@ -78,8 +91,14 @@
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swadhinrajbehera/)
-- 📧 [Email](mailto:your-email@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/swadhinrajbehera/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:swadhinrajbehera@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
