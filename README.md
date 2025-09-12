@@ -1,15 +1,12 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  Hi, I'm <strong>Swadhinraj Behera</strong>
 </h1>
 
 <p align="center">
-  <!-- Rainbow Shimmer Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&height=40&color=FF4B4B&lines=Hi,+I'm+Swadhinraj+Behera" alt="Typing SVG Red" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&height=40&color=FFA500&lines=🔍+Data+Analyst+💻+%7C+🏋️‍♂️+Fitness+Enthusiast+%7C+🧠+Generative+AI+Explorer" alt="Typing SVG Orange" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&height=40&color=FFD700&lines=Turning+data+into+insights+and+impact!" alt="Typing SVG Yellow" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&height=40&color=00FF00&lines=Always+learning,+always+analyzing+💡" alt="Typing SVG Green" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&height=40&color=00BFFF&lines=Strong+data,+Strong+body,+Strong+mind+💪" alt="Typing SVG Blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&height=120&color=00bfff&background=0A0A0A00&lines=Hi,+I'm+Swadhinraj+Behera;🔍+Data+Analyst+💻+%7C+🏋️‍♂️+Fitness+Enthusiast+%7C+🧠+Generative+AI+Explorer;Turning+data+into+insights+and+impact!;Always+learning,+always+analyzing+💡;Strong+data,+Strong+body,+Strong+mind+💪" alt="Typing SVG" />
 </p>
+
 
 ---
 
