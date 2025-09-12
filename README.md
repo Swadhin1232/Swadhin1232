@@ -1,21 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-  <span style="display:inline-block; animation: shimmer 3s infinite linear;">
-    Hi, I'm <strong>Swadhinraj Behera</strong>
-  </span>
+  Hi, I'm <strong>Swadhinraj Behera</strong>
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=🔍+Data+Analyst+%7C+🏋️‍♂️+Fitness+Enthusiast+%7C+🧠+Generative+AI+Explorer;Turning+data+into+insights+and+impact!;Always+learning%2C+always+analyzing+💡" alt="Typing SVG" />
 </p>
-
-<style>
-@keyframes shimmer {
-  0% { color: #ffffff; }
-  50% { color: #00bfff; }
-  100% { color: #ffffff; }
-}
-</style>
 
 ---
 
