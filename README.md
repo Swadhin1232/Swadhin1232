@@ -8,8 +8,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&height=120&color=00bfff&lines=Hi,+I'm+Swadhinraj+Behera;🔍+Data+Analyst+💻+%7C+🏋️‍♂️+Fitness+Enthusiast+%7C+🧠+Generative+AI+Explorer;Turning+data+into+insights+and+impact!;Always+learning,+always+analyzing+💡;Strong+data,+Strong+body,+Strong+mind+💪" alt="Typing SVG" />
+  <img src="https://i.gifer.com/origin/9b/9b5d7d2d78dd8ff4a64b1c77aa7b7c2b_w200.gif" width="500" alt="matrix animation" />
 </p>
+
 
 
 ---
