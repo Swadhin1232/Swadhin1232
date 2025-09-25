@@ -18,7 +18,11 @@
 💡 Passionate about uncovering hidden stories in data and building stunning visualizations.  
 💪 When I'm not crunching numbers, you'll find me lifting weights or exploring the world of Generative AI.  
 🎯 Driven by curiosity, creativity, and continuous learning.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation" />
+</p>
 
+---
 ---
 
 ### 🚀 Tech Stack
