@@ -8,8 +8,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/9b5n.gif" width="500" alt="matrix animation" />
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph.svg" alt="3D contribution graph animation"/>
 </p>
+
 
 
 
