@@ -8,10 +8,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph.svg" alt="3D contribution graph animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swadhinraj&theme=dracula" alt="3D contribution graph animation"/>
 </p>
-
-
 
 
 ---
