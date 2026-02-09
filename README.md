@@ -7,11 +7,6 @@
   Hi, I'm <strong>Swadhinraj Behera</strong>
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swadhinraj&theme=dracula" alt="3D contribution graph animation"/>
-</p>
-
----
 
 ## ✨ About Me
 
