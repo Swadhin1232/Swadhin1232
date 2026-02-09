@@ -86,24 +86,14 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+### 🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
 
 ---
 
-## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/swadhinrajbehera/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:swadhinrajbehera@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 📬 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/swadhinrajbehera/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:swadhinrajbehera@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
