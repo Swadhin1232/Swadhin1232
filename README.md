@@ -1,4 +1,4 @@
-
+        
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header animation"/>
 </p>
