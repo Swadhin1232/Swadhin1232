@@ -78,11 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swadhinraj&theme=matrix&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 
 ### 🐍 Contribution Snake
