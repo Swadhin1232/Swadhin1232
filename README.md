@@ -78,52 +78,11 @@
 
 ---
 
-# 📊 GitHub Stats
-
-</div>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <!-- <img width="600" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=highcontrast&hide_border=false" alt="Anirudha Bele GitHub Streak Details" /> -->
-  <img width="600" height="220" align="center" src="https://nirzak-streak-stats.vercel.app/?user=anirudha-8&theme=dark&hide_border=false" alt="Anirudha Bele GitHub Streak Details" />
-  <!-- <img width="600" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&hide_border=false" alt="Anirudha Bele GitHub Streak Details" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=swadhinraj&theme=matrix&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
 </p>
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=anirudha-8&theme=dark)](https://git.io/streak-stats)
--->
-
-<br />
-
-<p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-  <!-- <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false"> -->
-  <br />
-  <br />
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-  <!-- <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> -->
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <!-- First block: heading + quotes image -->
-  <div style="text-align: center;">
-    <h2>✍️ Random Dev Quote</h2>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  </div>
-
-  <!-- Second block: profile views counter -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=anirudha-8&style=for-the-badge&base=1000" />
-  </div>
-</div>
-
 
 
 ### 🐍 Contribution Snake
