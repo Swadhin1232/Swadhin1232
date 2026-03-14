@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header animation"/>
 </p>
-                                            
+                                           
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"  />
   Hi, I'm <strong>Swadhinraj Behera</strong>
