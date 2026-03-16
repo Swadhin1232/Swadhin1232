@@ -7,7 +7,6 @@
   Hi, I'm <strong>Swadhinraj Behera</strong>
 </h1>
 
-
 ## ✨ About Me
 
 💻 MCA Graduate with a strong foundation in **full-stack web development, data analytics, and AI-driven solutions**  
